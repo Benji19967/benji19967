@@ -2,10 +2,17 @@
 
 Check out my projects:
 
-- [Visual Odometry Pipeline](https://github.com/Benji19967/uzh_vamr_vo_pipeline): built a VO pipeline from scratch (Python / OpenCV)
-- [Robotic Prototype](https://github.com/Benji19967/unifr_profab_learninglab): built a robot to enhance a theater play (Python / ROS1 / Arduino / NodeRED)
-- [Sudoku solver](https://github.com/Benji19967/sudoku): compared C and Python performance (C / Python)
-- [Bachelor Project](https://github.com/Benji19967/comp400): _penalization for sparsity and optimization techniques_ (R)
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+|[Visual Odometry Pipeline](https://github.com/Benji19967/uzh_vamr_vo_pipeline) | built a VO pipeline from scratch | Python / OpenCV |
+|[Robotic Prototype](https://github.com/Benji19967/unifr_profab_learninglab) | built a robot to enhance a theater play | Python / ROS1 / Arduino / NodeRED |
+|[Sudoku solver](https://github.com/Benji19967/sudoku) | compared C and Python performance | C / Python |
+|[Bachelor Project](https://github.com/Benji19967/comp400) | _penalization for sparsity and optimization techniques_ | R |
+
+- [Visual Odometry Pipeline](https://github.com/Benji19967/uzh_vamr_vo_pipeline): built a VO pipeline from scratch — Python / OpenCV
+- [Robotic Prototype](https://github.com/Benji19967/unifr_profab_learninglab): built a robot to enhance a theater play — Python / ROS1 / Arduino / NodeRED
+- [Sudoku solver](https://github.com/Benji19967/sudoku): compared C and Python performance — C / Python
+- [Bachelor Project](https://github.com/Benji19967/comp400): _penalization for sparsity and optimization techniques_ — R
 
 Check out my work on:
 

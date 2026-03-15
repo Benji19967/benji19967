@@ -1,35 +1,35 @@
 ## Hi there 👋
 
 Check out my projects:
-
+<!--
 | Repository | Description | Tools |
 |------------|-------------|-------|
 |[Visual Odometry Pipeline](https://github.com/Benji19967/uzh_vamr_vo_pipeline) | built a VO pipeline from scratch | Python / OpenCV |
 |[Robotic Prototype](https://github.com/Benji19967/unifr_profab_learninglab) | built a robot to enhance a theater play | Python / ROS1 / Arduino / NodeRED |
 |[Sudoku solver](https://github.com/Benji19967/sudoku) | compared C and Python performance | C / Python |
 |[Bachelor Project](https://github.com/Benji19967/comp400) | _penalization for sparsity and optimization techniques_ | R |
+-->
 
-<!--
 - [Visual Odometry Pipeline](https://github.com/Benji19967/uzh_vamr_vo_pipeline): built a VO pipeline from scratch — Python / OpenCV
 - [Robotic Prototype](https://github.com/Benji19967/unifr_profab_learninglab): built a robot to enhance a theater play — Python / ROS1 / Arduino / NodeRED
 - [Sudoku solver](https://github.com/Benji19967/sudoku): compared C and Python performance — C / Python
 - [Bachelor Project](https://github.com/Benji19967/comp400): _penalization for sparsity and optimization techniques_ — R
--->
+
 
 Check out my work on:
 
-
+<!--
 | Repository | Description | Tools |
 |------------|-------------|-------|
 |[Numerical Optimization](https://github.com/Benji19967/unibe_applied_optimization) | optimized the energy of a system using various optimization techniques | C++
 |[Pattern Recognition](https://github.com/Benji19967/unibe_applied_optimization) | set up a ML training framework | Python / Bash
 |[Mathematical Modelling and Linear Optimization](https://github.com/Benji19967/UnifrMmlo.jl) | solved small linear optimization problems | Julia / Gurobi
+-->
 
-<!--
 - [Numerical Optimization](https://github.com/Benji19967/unibe_applied_optimization): optimized the energy of a system using various optimization techniques — C++
 - [Pattern Recognition](https://github.com/Benji19967/unibe_applied_optimization): set up a ML training framework — Python / Bash
 - [Mathematical Modelling and Linear Optimization](https://github.com/Benji19967/UnifrMmlo.jl): solved small linear optimization problems — Julia / Gurobi
--->
+
 
 I sometimes like to do puzzles:
 - [Project Euler](https://github.com/Benji19967/project_euler): solved >60 problems — Python

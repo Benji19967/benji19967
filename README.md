@@ -4,6 +4,7 @@ Check out my projects:
 
 - [Visual Odometry Pipeline](https://github.com/Benji19967/uzh_vamr_vo_pipeline): built a VO pipeline from scratch — Python / OpenCV
 - [Robotic Prototype](https://github.com/Benji19967/unifr_profab_learninglab): built a robot to enhance a theater play — Python / ROS1 / Arduino / NodeRED
+- [Interpreter in Java](https://github.com/Benji19967/unibe_compiler_construction): Interpreter for a Simple Programming Language (SPL) — Java / JavaCC
 - [Sudoku Solver](https://github.com/Benji19967/sudoku): compared C and Python performance — C / Python
 - [Bachelor Project](https://github.com/Benji19967/comp400): _penalization for sparsity and optimization techniques_ — R
 

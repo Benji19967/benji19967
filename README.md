@@ -12,6 +12,7 @@ Check out my projects:
 Check out my work on:
 
 - [Numerical Optimization](https://github.com/Benji19967/unibe_applied_optimization): optimized the energy of a system using various optimization techniques — C++
+- [Concurrency](https://github.com/Benji19967/unine_concurrency): generated Mandelbrot set in parallel and implemented various concurrency algorithms — Java
 - [Pattern Recognition](https://github.com/Benji19967/unifr_pattern_recognition_group): set up a ML training framework — Python / Bash
 - [Mathematical Modelling and Linear Optimization](https://github.com/Benji19967/UnifrMmlo.jl): solved small linear optimization problems — Julia / Gurobi
 

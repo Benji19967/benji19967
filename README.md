@@ -4,7 +4,7 @@ Check out my projects:
 
 - [Visual Odometry Pipeline](https://github.com/Benji19967/uzh_vamr_vo_pipeline): built a VO pipeline from scratch — Python / OpenCV
 - [Robotic Prototype](https://github.com/Benji19967/unifr_profab_learninglab): built a robot to enhance a theater play — Python / ROS1 / Arduino / NodeRED
-- [Glaucoma VF ML](https://github.com/Benji19967/glaucoma-vf-ml): predicted glaucoma progression using deep learning techniques — PyTorch Lightning / GPU
+- [Glaucoma VF ML](https://github.com/Benji19967/glaucoma-vf-ml): predicted glaucoma progression using deep learning — PyTorch Lightning / GPU / Apptainer
 - [SPL Interpreter](https://github.com/Benji19967/unibe_compiler_construction): built an interpreter for a Simple Programming Language (SPL) — Java / JavaCC
 - [Sudoku Solver](https://github.com/Benji19967/sudoku): compared C and Python performance — C / Python
 - [Bachelor Project](https://github.com/Benji19967/comp400): _penalization for sparsity and optimization techniques_ — R
